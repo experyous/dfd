@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@experyous 
+experyous
+/
+dfd
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+dfd/tst.sh
+@experyous
+experyous Create tst.sh
+Latest commit 6282b35 10 minutes ago
+ History
+ 1 contributor
+4229 lines (4081 sloc)  120 KB
+
 #!/bin/bash
 
 #Colors
@@ -783,9 +812,9 @@ cd $setdir
 banner
 echo ""
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red ByChan$tp ${blink}${lightgreen}                        |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/ByCh4n$tp ${blink}${lightgreen}     |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Instagram           $white":" $red huseyinaltns$tp ${blink}${lightgreen}                  |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red experyous$tp ${blink}${lightgreen}                        |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/experyous$tp ${blink}${lightgreen}     |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}tasarım sahibi           $white":" $red ByCh4n$tp ${blink}${lightgreen}                  |$tp"
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp\n"
 echo "  ~~~~~~~~~~~~~~~~~~~~~ BCHackTool ~~~~~~~~~~~~~~~~~~~~~~~~~" 
         echo ""
